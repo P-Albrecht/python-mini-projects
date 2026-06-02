@@ -4,7 +4,7 @@ This script will sort and move the files in the directory
 
 'apple.txt' --> 'A'
 'ryan.txt' --> 'R'
-'01010.txt' --> 'Misc'
+'01010.txt' --> 'Misc'sdfsdfsdfsdf
 
 '''
 import os
